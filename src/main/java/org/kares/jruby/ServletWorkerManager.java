@@ -18,7 +18,7 @@ package org.kares.jruby;
 import java.io.IOException;
 import java.io.InputStream;
 
-import javax.servlet.ServletContext;
+import jakarta.servlet.ServletContext;
 
 /**
  * A manager implementation for a Servlet environment.

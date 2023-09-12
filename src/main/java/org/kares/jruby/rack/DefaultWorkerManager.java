@@ -15,7 +15,7 @@
  */
 package org.kares.jruby.rack;
 
-import javax.servlet.ServletContext;
+import jakarta.servlet.ServletContext;
 
 import org.jruby.Ruby;
 import org.jruby.rack.RackApplication;
